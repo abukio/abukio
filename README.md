@@ -2,7 +2,7 @@
 - 👀 I’m interested in to build Mern stack projects
 - 🌱 I’m currently learning React and PHP
 - 💞️ I’m looking to collaborate on others programmer 
-- 📫 How to reach me in telegram @abukiPro1
+- 📫 How to reach me in telegram @abukidev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 😃Happy coding for js developers
 
